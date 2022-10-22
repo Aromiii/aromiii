@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @Aromiii
+### Hi there 👋 I'm @Aromi
 
 - 🔭 I’m currently working on Food-helper
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Firebase](https://firebase.google.com/) 
