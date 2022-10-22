@@ -1,4 +1,4 @@
-### Hi there 👋 I'm @Aromi
+### Hi there 👋 I'm [@Aromiii](https://github.com/Aromiii)
 
 - 🔭 I’m currently working on Food-helper
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Firebase](https://firebase.google.com/) 
