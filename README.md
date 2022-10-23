@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Firebase](https://firebase.google.com/) 
 - 🤔 If you want you can collaborate on [Food-helper](https://github.com/Aromiii/Food-helper)
 
+[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/aromiii)](https://git.io/awesome-stats-card)
+
 <!--
 **Aromiii/aromiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
