@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [@Aromiii](https://github.com/Aromiii)
 
-- 🔭 I’m currently working on Food-helper
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Firebase](https://firebase.google.com/) 
+- 🔭 I’m currently contributing to [@Hyvinkään Nummenpojat](https://github.com/Nummenpojat)
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Firebase](https://firebase.google.com/) and [Express](https://expressjs.com/)
 - 🤔 If you want you can collaborate on [Food-helper](https://github.com/Aromiii/Food-helper)
 
 [![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/aromiii)](https://git.io/awesome-stats-card)
