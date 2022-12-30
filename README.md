@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently contributing to [@Hyvinkään Nummenpojat](https://github.com/Nummenpojat)
 - 🌱 I’m currently learning [React](https://reactjs.org/), [Firebase](https://firebase.google.com/) and [Express](https://expressjs.com/)
-- 🤔 If you want you can collaborate on [Food-helper](https://github.com/Aromiii/Food-helper)
 
-[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/aromiii)](https://git.io/awesome-stats-card)
+![Aromiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=aromi&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromiii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aromiii/aromiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
